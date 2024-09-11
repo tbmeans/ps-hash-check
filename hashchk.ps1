@@ -9,3 +9,4 @@ if ($is_g) {
 } else {
 	Write-Output "Verification failed."
 }
+pause
